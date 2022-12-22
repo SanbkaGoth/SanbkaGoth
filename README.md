@@ -80,3 +80,6 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 
 [![Linkedin: Alexander Elizarov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-elizarov-76b64421b/)
 [![Telegram SanbkaGoth](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SanbkaGoth)
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanbkaGoth&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
